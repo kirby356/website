@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+I’m a passionate web developer with 10 years of experience turning ideas into functional, high-quality web solutions. I love working with modern technologies like JavaScript, React, Node.js, and Python, and I focus on writing clean, maintainable code that scales.
+
+Whether you need a sleek portfolio site, a dynamic web app, or ongoing development support, I’m here to help bring your vision to life.
+
+Services
+
+-   Custom Websites: Responsive, fast, and visually appealing sites tailored to your brand.
+
+-   Web Applications: Interactive apps with modern frameworks like React and Vue.
+
+-   Maintenance & Support: Ongoing updates, bug fixes, and optimization.
+
+-   Consulting: Guidance on architecture, performance, and technology choices
